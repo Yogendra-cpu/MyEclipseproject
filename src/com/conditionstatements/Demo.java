@@ -126,12 +126,25 @@ public class Demo{
 	      System.out.println("declare valid temperature");
 	}
 	
+	 
+	 
+	 //
+	  int number = -24;
+	  if(number >=1) {
+		  System.out.println("positive number");
+	  }else if(number == 0) {
+	       System.out.println("number is zero");
+	  }else if(number <=-1 && number<0) {
+		  System.out.println("negative number");
+	  }else {
+		  System.out.println("invalid input");
+	  }
+
+	//
+	  
+	
+	
+	
 	
 	}
 }
-	
-	
-	
-	
-	
-
